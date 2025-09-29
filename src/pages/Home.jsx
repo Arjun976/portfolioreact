@@ -101,8 +101,7 @@ export default function HomePage() {
             </Typography>
 
             <Typography sx={{ maxWidth: 640 }} color="text.secondary">
-              Short intro about you. Say what you do, what you love building,
-              and your focus.
+             Hey, I'm Arjun K A, a BTEC graduate and passionate web developer who loves crafting sleek, user-friendly websites with React and modern JavaScript. I thrive on building digital experiences that are both functional and beautiful, while diving into open-source projects to collaborate and grow. When I'm not coding, I'm exploring new tech trends or tinkering with ideas to push the web forward.
             </Typography>
 
             <Stack direction="row" spacing={2}>

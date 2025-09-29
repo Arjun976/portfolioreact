@@ -11,7 +11,7 @@ import CssBaseline from '@mui/material/CssBaseline'
 const PROJECTS = [
   { id: 1, title: 'Portfolio Site', image: '', tech: ['React', 'MUI'], demo: '#', repo: '#' },
   { id: 2, title: 'Todo App', image: '', tech: ['React', 'LocalStorage'], demo: '#', repo: '#' },
-  { id: 3, title: 'E-commerce UI', image: '', tech: ['React', 'Stripe'], demo: '#', repo: '#' }
+  { id: 3, title: 'ResumeBuilder UI', image: '', tech: ['React', 'MUI'], demo: '#', repo: '#' }
 ]
 
 // 🎨 Reuse same theme
